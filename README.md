@@ -26,12 +26,6 @@ Junior Software Developer | Software Tester | Android Developer | Army National 
 
 ---
 
-
-## 📈 GitHub Stats
-![Van Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanLeHoang&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vanle/)
 - [Email](mailto:vaan.le.aa@gmail.com)
