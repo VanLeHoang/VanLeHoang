@@ -12,11 +12,10 @@ Junior Software Developer | Software Tester | Android Developer | Army National 
 ---
 
 ## 💻 Skills
-- **Programming Languages:** Python, Java, JavaScript, C++, Kotlin
+- **Programming Languages:** Python, JavaScript, C++, Kotlin
 - **Web Development:** HTML, CSS, MySQL
-- **Software & Tools:** Git, GitHub, VS Code, Android Studio
-- **UX/UI Design:** User research, Wireframing, Prototyping, Figma
-- **Other:** Agile methodologies, QA testing, CI/CD
+- **Software & Tools:** GitHub, VS Code, Android Studio
+- **Other:** Agile methodologies, QA testing
 
 ---
 
