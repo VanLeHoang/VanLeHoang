@@ -1,6 +1,6 @@
 # Hi, I'm Van Le 👋
 
-Junior Software Developer | Software Tester | Android Developer | Army National Guard
+I’m a **Freelance Software Tester** at Test IO, studying to become a Software and Android Developer. I also serve in the Virginia Army National Guard. I love game dev, dogs, and learning new things. My superpower is adapting to anything—I've been a sales manager, marketing manager, and business owner, so I’m basically a real-life multitasking machine.
 
 ---
 
